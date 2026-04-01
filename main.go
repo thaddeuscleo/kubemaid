@@ -6,9 +6,9 @@ import (
 	"log"
 	"os"
 
-	"k8s-configmap-analyzer/pkg/analyzer"
-	"k8s-configmap-analyzer/pkg/formatter"
-	"k8s-configmap-analyzer/pkg/k8s"
+	"github.com/thaddeuscleo/kubemaid/pkg/analyzer"
+	"github.com/thaddeuscleo/kubemaid/pkg/formatter"
+	"github.com/thaddeuscleo/kubemaid/pkg/k8s"
 )
 
 func main() {

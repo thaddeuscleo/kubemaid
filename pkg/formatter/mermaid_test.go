@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	"k8s-configmap-analyzer/pkg/analyzer"
+	"github.com/thaddeuscleo/kubemaid/pkg/analyzer"
 )
 
 func TestToMermaidConsolidated(t *testing.T) {

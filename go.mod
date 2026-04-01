@@ -1,4 +1,4 @@
-module k8s-configmap-analyzer
+module github.com/thaddeuscleo/kubemaid
 
 go 1.26.1
 

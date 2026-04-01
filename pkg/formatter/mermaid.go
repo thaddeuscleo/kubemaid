@@ -5,7 +5,7 @@ import (
 	"sort"
 	"strings"
 
-	"k8s-configmap-analyzer/pkg/analyzer"
+	"github.com/thaddeuscleo/kubemaid/pkg/analyzer"
 )
 
 type groupKey struct {
